@@ -1,0 +1,16 @@
+<Languages>
+	<List>
+	<Language Name="NaoNhi">
+		<DisplayName>Tiếng Việt</DisplayName>
+		<Icon>Resources/mod.png</Icon>
+		<!--0:CNMODE 1:ENMODE-->
+		<UIMode>1</UIMode>
+		<Desc>Tiếng Việt</Desc>
+		<!--Word Connect with space-->
+		<SpaceConnect>true</SpaceConnect>
+		<!--FamilyName Postposition-->
+		<FamilyPostposition>false</FamilyPostposition>
+		 <!--change the labelword in StoryTxt -->
+	</Language>
+	</List>
+</Languages>
